@@ -21,3 +21,10 @@ Ejemplos de ancho y alto
 
 
 -
+Ejepmlo ALT
+![image](https://github.com/user-attachments/assets/0e36495a-5036-482f-96ca-9c595a44b237)
+
+![image](https://github.com/user-attachments/assets/49afa15e-8561-480e-af74-dc10eaac5a68)
+
+
+-
