@@ -14,3 +14,10 @@ Ejemplo un poco mas complicado
 
 
 -
+Ejemplos de ancho y alto
+![image](https://github.com/user-attachments/assets/8148b770-9f31-450d-94a6-b24951fe87f9)
+
+![image](https://github.com/user-attachments/assets/51027f50-562a-4117-a5f3-12ab4a35e904)
+
+
+-
