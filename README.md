@@ -28,3 +28,10 @@ Ejepmlo ALT
 
 
 -
+Ejemplo de estilo
+![image](https://github.com/user-attachments/assets/dca15c95-754f-4b2b-8e42-7763ccac049d)
+
+![image](https://github.com/user-attachments/assets/38afe1cd-d7ce-4abe-b19c-ed7064e5b1a9)
+
+
+-
